@@ -1,4 +1,4 @@
-```jsx
+
 import { Grid, Paper, Typography, Box } from '@mui/material';
 import { IconMail, IconUsers, IconClick } from '@tabler/icons-react';
 
@@ -55,4 +55,3 @@ const CampaignStats = () => {
 };
 
 export default CampaignStats;
-```
