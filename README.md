@@ -1,6 +1,6 @@
-LoanBuddy v7
+LoanBuddy v9
 
-LoanBuddy v7 is a web application designed to assist users in managing and tracking their loans efficiently. Built with modern web technologies, it offers a user-friendly interface for monitoring loan statuses, payments, and schedules.
+LoanBuddy v9 is a web application designed to assist users in managing and tracking their loans efficiently. Built with modern web technologies, it offers a user-friendly interface for monitoring loan statuses, payments, and schedules.
 Features
 
     Loan Management: Add, edit, and delete loan entries with details such as amount, interest rate, and duration.
